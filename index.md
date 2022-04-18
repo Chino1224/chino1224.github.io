@@ -1,10 +1,11 @@
+<div align="center">
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=26102208&auto=1&height=66"></iframe>
+</div>
+# <center>欢迎来到萌小珞の温馨小屋</center>
+## <center>最新一期视频</center>
+<iframe src="//player.bilibili.com/player.html?aid=425289777&bvid=BV1c3411H7yj&cid=566241411&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
 
-# 欢迎来到萌小珞の温馨小屋
-## 最新一期视频
-<iframe src="//player.bilibili.com/player.html?aid=425289777&bvid=BV1c3411H7yj&cid=566241411&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-# 系统下载（暂时没有
+# <center>系统下载（暂时没有</center>
 
 ``` Markdown
 # 标题1
@@ -12,20 +13,20 @@
 ### 标题3
 ```
 
-# 哔哩哔哩
-[萌珞的个人空间-哔哩哔哩](https://space.bilibili.com/313679084?spm_id_from=333.1007.0.0)
+# <center>哔哩哔哩</center>
+<center>[萌珞的个人空间-哔哩哔哩](https://space.bilibili.com/313679084?spm_id_from=333.1007.0.0)</center>
 
 ``` Markdown
 [超链接](https://www.fuibafuyu.cn/)
 ```
-# 动画鬼畜区
->[点 兔 咖 啡 店](https://www.bilibili.com/video/BV1wV411J7qG)<br>
->[喵 内 团 队 给 您 装 宽 带 啦](https://www.bilibili.com/video/BV1ry4y187Jr)<br>
->[日向开门的时候看到了什么？#1](https://www.bilibili.com/video/BV1iy4y1h7pu)<br>
->[test4](https://www.fuibafuyu.cn/)
-# 相关直播
+# <center>动画鬼畜区</center>
+><center>[点 兔 咖 啡 店](https://www.bilibili.com/video/BV1wV411J7qG)</center><br>
+><center>[喵 内 团 队 给 您 装 宽 带 啦](https://www.bilibili.com/video/BV1ry4y187Jr)</center><br>
+><center>[日向开门的时候看到了什么？#1](https://www.bilibili.com/video/BV1iy4y1h7pu)</center><br>
+><center>[test4](https://www.fuibafuyu.cn/)</center>
+# <center>相关直播</center>
+><center>[萌珞直播间](https://live.bilibili.com/11187915)</center><br>
 ``` Markdown
->[萌珞直播间](https://live.bilibili.com/11187915)<br>
 >test2<br>
 >test3<br>
 >[test4](https://www.fuibafuyu.cn/)
