@@ -5,6 +5,14 @@
 
 @import url('https://fonts.googleapis.com/css?family=Google+Sans:400,700%7CNoto+Sans+SC:400,700%7C&display=swap');
 
-body {
-    font-family: 'Google Sans', 'Noto Sans SC';
-}
+body {font-family: 'Google Sans', 'Noto Sans SC'; color: #819198}
+
+center {color: #fb7299}
+
+a:link {color: #819198; text-decoration: underline}
+
+a:hover {color: #fb7299; text-decoration: underline; font-weight: Bold}
+
+a:active {color: blue; text-decoration: underline}
+
+a:visited {color: #819198; text-decoration: underline}
