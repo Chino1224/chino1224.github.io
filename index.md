@@ -10,7 +10,8 @@
 <iframe src="//player.bilibili.com/player.html?aid=765599548&bvid=BV1Cr4y1v7HV&cid=479884517&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 ## <center>上海政府版</center>
 <iframe src="//player.bilibili.com/player.html?aid=506855936&bvid=BV1hg411N7t8&cid=446564670&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-
+## <center>Rick Astley经典歌曲</center>
+<iframe src="//player.bilibili.com/player.html?aid=928861104&bvid=BV1uT4y1P7CX&cid=287639008&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
 
 # <center>系统下载（暂时没有</center>
 
