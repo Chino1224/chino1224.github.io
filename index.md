@@ -5,7 +5,7 @@
 # <center>欢迎来到萌小珞の温馨小屋</center>
 
 ## <center>最新一期视频</center>
-<<iframe src="//player.bilibili.com/player.html?aid=298469955&bvid=BV1wF411u7v9&cid=582526079&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+<iframe src="//player.bilibili.com/player.html?aid=298469955&bvid=BV1wF411u7v9&cid=582526079&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 ## <center>野兽先辈+孙笑川</center>
 <iframe src="//player.bilibili.com/player.html?aid=765599548&bvid=BV1Cr4y1v7HV&cid=479884517&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 ## <center>上海政府版</center>
