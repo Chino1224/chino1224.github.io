@@ -24,7 +24,7 @@
 >[深度技术版（点我即可访问）](http://www.ideepin.com/xitong/)<br>
 >[雨林木风版（点我即可访问）](http://www.ylmfeng.com/)<br>
 
-# <center>敬请期待</center>
+# <center>VUP虚拟形象（敬请期待）</center>
 
 # <center>哔哩哔哩</center>
 [萌珞的个人空间-哔哩哔哩](https://space.bilibili.com/313679084?spm_id_from=333.1007.0.0)
